@@ -1,0 +1,19 @@
+h1{
+  font-size:30px;
+}
+#logo{
+  margin: 0 auto;
+  max-width: 150px;
+}
+.logo-img{
+  padding: 10px;
+}
+ul{
+  padding: 10px;
+}
+ul li{
+  padding: 10px;
+}
+ul li a{
+  color: #a4a4a4;
+}
